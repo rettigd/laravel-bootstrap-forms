@@ -15,6 +15,5 @@
         "psr-0": {
             "Manavo\\BootstrapForms\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
